@@ -207,3 +207,7 @@ input[type="submit"] {
 #special {
   margin-left: 35px;
 }
+#node {
+  margin-left: 35px;
+  margin-right: 0px;
+}
